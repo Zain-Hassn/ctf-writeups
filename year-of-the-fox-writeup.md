@@ -1,7 +1,7 @@
 # Year of the Fox — CTF Writeup
 
 > **Platform:** TryHackMe
-> **Difficulty:** Medium
+> **Difficulty:** Hard
 
 ---
 
