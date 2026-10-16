@@ -19,7 +19,7 @@
 To save time, I didn't jump straight into a slow Nmap scan. Instead, I started with **Rustscan** to blast through all ports fast, and then piped the open ports into Nmap with default scripts and version detection:
 
 ```bash
-rustscan -a 10.130.174.130 -- -sC -sV -oN nmap_scan.txt
+rustscan -a 10.130.174.130 -- -sC -sV 
 ```
 
 The scan showed two interesting things: a web server on **port 80** and open **SMB ports (139/445)**.
