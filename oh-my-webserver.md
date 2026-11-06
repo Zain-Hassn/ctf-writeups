@@ -278,4 +278,4 @@ The host returns an XML response with the command output embedded inside the `<p
 <p:StdOut>THM{...redacted_root_flag...}</p:StdOut>
 ```
 
-We dumped the host's root flag directly through the internal OMI interface. Box successfully pawned! 🌐
+We dumped the host's root flag directly through the internal OMI interface. Box successfully pawned! 
