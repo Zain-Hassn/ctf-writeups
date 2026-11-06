@@ -191,4 +191,4 @@ Checking `/root/root.txt` gave a troll message. To find where the author hid the
 find /home -group root 2>/dev/null
 ```
 
-Found it hidden in a folder inside `/home`. Grabbed the root flag, and the box is finished! 🦊
+Found it hidden in a folder inside `/home`. Grabbed the root flag, and the box is finished! 
